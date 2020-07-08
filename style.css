@@ -1,0 +1,96 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #fcfcfc;
+}
+
+/* header-area css start here */
+
+.header-area{
+    min-height: 550px;
+    margin-bottom: 50px;
+}
+
+.bg-color{
+    background: #F0FFF0;
+}
+
+.nav-link{
+    color: black!important;
+}
+
+.custom-button{
+    background-color: #21B573;
+    padding: 10px 20px;
+    border-radius: 10px;
+    display: inline-block;
+    border: none;
+    color: white;
+}
+
+a.nav-link.custom-button{
+    color: white!important;
+}
+
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+.navbar{
+    padding-bottom: 70px;
+}
+
+#text-highlight{
+    color: #FD511A;
+}
+
+#text-highlight-2{
+    color: #21B573;
+}
+
+.text-area h1{
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+}
+
+.text-area p{
+    line-height: 36px;
+    color: dimgray;
+}
+/* header-area css end here */
+
+
+/* utilities area css start here */
+section{
+    margin-bottom: 30px;
+}
+
+.utilities-card{
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    padding: 35px 25px 25px 0;
+    margin-bottom: 50px;
+    height: 275px;
+}
+
+.utilities-card:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.text-center h5{
+    padding-top: 20px;
+    font-size: 23px;
+    line-height: 36px;
+    font-weight: 600;
+    color: #413960;
+}
+
+.utilities img{
+    height: 90px;
+    width: 90px;
+}
