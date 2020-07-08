@@ -62,10 +62,7 @@ a.nav-link.custom-button{
 /* header-area css end here */
 
 
-/* utilities area css start here */
-section{
-    margin-bottom: 30px;
-}
+/* utilities section css start here */
 
 .utilities-card{
     background-color: #F8FFFB;
@@ -94,3 +91,5 @@ section{
     height: 90px;
     width: 90px;
 }
+
+/* utilities section css end here */
