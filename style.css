@@ -198,7 +198,7 @@ footer p{
     padding-bottom: 30px;
 }
 
-.col-2 a{
-    font-weight: normal;
+a.pb-2.d-block.no-underline{
+    color: #CDCDCD;
 }
 /* footer part css start from here */
