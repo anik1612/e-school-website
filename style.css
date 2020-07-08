@@ -11,8 +11,6 @@ p{
     color: dimgray;
 }
 
-
-
 /* header-area css start here */
 .header-area{
     min-height: 550px;
@@ -173,12 +171,11 @@ a.nav-link.custom-button{
 #testimonial-text{
     width: 580px;
     height: 90px;
-    font-size: 16px;
-    line-height: 30px;
+    font-size: 15px;
+    line-height: 25px;
     color: #000000;
-    margin-left: 20px;
+    margin-left: 15px;
 }
-
 /* testimonial section css start here */
 
 
@@ -186,6 +183,10 @@ a.nav-link.custom-button{
 /* footer part css start from here */
 footer{
     background-color: #282531;
+}
+
+footer div.row{
+    margin-right: 0;
 }
 
 .footer-container{
